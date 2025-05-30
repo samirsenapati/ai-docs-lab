@@ -1,0 +1,5 @@
+INFO  [2024-05-30 10:00:00] Starting service...
+WARN  [2024-05-30 10:02:01] Memory usage is high.
+INFO  [2024-05-30 10:03:00] Service running.
+ERROR [2024-05-30 10:05:15] Connection timeout to database.
+INFO  [2024-05-30 10:06:00] Recovered and stable.
