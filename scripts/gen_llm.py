@@ -11,7 +11,7 @@ client = OpenAI(
 )
 
 
-input_path = Path("../docs/generated/log_summary.md")
+input_path = Path("docs/generated/log_summary.md")
 output_path = Path("../docs/drafts/incident_narrative.md")
 
 prompt = input_path.read_text()
