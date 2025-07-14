@@ -1,5 +1,6 @@
 site_name: Samir Docs
 nav:
   - Home: index.md
+  - API Documentation: api-documentation.md
   - Log Summary: generated/log_summary.md
   - Incident Report: drafts/incident_narrative.md

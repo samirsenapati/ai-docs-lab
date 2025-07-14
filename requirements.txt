@@ -1,0 +1,16 @@
+# AI Docs Lab Dependencies
+
+# Core dependencies for LLM integration
+openai>=1.0.0
+
+# HTTP client for API requests
+httpx>=0.24.0
+
+# Standard library imports (included in Python)
+# - os
+# - pathlib
+# - subprocess
+
+# Development dependencies (optional)
+# mkdocs>=1.4.0          # For documentation site
+# mkdocs-material>=8.0.0 # Material theme for MkDocs
