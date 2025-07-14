@@ -12,5 +12,5 @@ httpx>=0.24.0
 # - subprocess
 
 # Development dependencies (optional)
-# mkdocs>=1.4.0          # For documentation site
-# mkdocs-material>=8.0.0 # Material theme for MkDocs
+mkdocs>=1.4.0          # For documentation site
+mkdocs-material>=8.0.0 # Material theme for MkDocs
